@@ -1,4 +1,4 @@
-﻿//3.Bài toán đi đường của người giao hàng.
+﻿//Bài toán đi đường của người giao hàng.
 using System;
 using System.Collections.Generic;
 using System.Linq;
