@@ -1,0 +1,14 @@
+D:\Study\6. Studying\ThuatToan\Doan\BT02\BT02\bin\Debug\netcoreapp3.1\BT02.exe
+D:\Study\6. Studying\ThuatToan\Doan\BT02\BT02\bin\Debug\netcoreapp3.1\BT02.deps.json
+D:\Study\6. Studying\ThuatToan\Doan\BT02\BT02\bin\Debug\netcoreapp3.1\BT02.runtimeconfig.json
+D:\Study\6. Studying\ThuatToan\Doan\BT02\BT02\bin\Debug\netcoreapp3.1\BT02.runtimeconfig.dev.json
+D:\Study\6. Studying\ThuatToan\Doan\BT02\BT02\bin\Debug\netcoreapp3.1\BT02.dll
+D:\Study\6. Studying\ThuatToan\Doan\BT02\BT02\bin\Debug\netcoreapp3.1\BT02.pdb
+D:\Study\6. Studying\ThuatToan\Doan\BT02\BT02\obj\Debug\netcoreapp3.1\BT02.csproj.AssemblyReference.cache
+D:\Study\6. Studying\ThuatToan\Doan\BT02\BT02\obj\Debug\netcoreapp3.1\BT02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\6. Studying\ThuatToan\Doan\BT02\BT02\obj\Debug\netcoreapp3.1\BT02.AssemblyInfoInputs.cache
+D:\Study\6. Studying\ThuatToan\Doan\BT02\BT02\obj\Debug\netcoreapp3.1\BT02.AssemblyInfo.cs
+D:\Study\6. Studying\ThuatToan\Doan\BT02\BT02\obj\Debug\netcoreapp3.1\BT02.csproj.CoreCompileInputs.cache
+D:\Study\6. Studying\ThuatToan\Doan\BT02\BT02\obj\Debug\netcoreapp3.1\BT02.dll
+D:\Study\6. Studying\ThuatToan\Doan\BT02\BT02\obj\Debug\netcoreapp3.1\BT02.pdb
+D:\Study\6. Studying\ThuatToan\Doan\BT02\BT02\obj\Debug\netcoreapp3.1\BT02.genruntimeconfig.cache
