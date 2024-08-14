@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\6. Studying\\ThuatToan\\Doan\\BT02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF7A49D-A927-466E-B318-5931947E9B57}|BT02\\BT02.csproj|d:\\study\\6. studying\\thuattoan\\doan\\bt02\\bt02\\bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF7A49D-A927-466E-B318-5931947E9B57}|BT02\\BT02.csproj|solutionrelative:bt02\\bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF7A49D-A927-466E-B318-5931947E9B57}|BT02\\BT02.csproj|d:\\study\\6. studying\\thuattoan\\doan\\bt02\\bt02\\bai02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF7A49D-A927-466E-B318-5931947E9B57}|BT02\\BT02.csproj|solutionrelative:bt02\\bai02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF7A49D-A927-466E-B318-5931947E9B57}|BT02\\BT02.csproj|d:\\study\\6. studying\\thuattoan\\doan\\bt02\\bt02\\bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF7A49D-A927-466E-B318-5931947E9B57}|BT02\\BT02.csproj|solutionrelative:bt02\\bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF7A49D-A927-466E-B318-5931947E9B57}|BT02\\BT02.csproj|d:\\study\\6. studying\\thuattoan\\doan\\bt02\\bt02\\bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF7A49D-A927-466E-B318-5931947E9B57}|BT02\\BT02.csproj|solutionrelative:bt02\\bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai04.cs",
+              "DocumentMoniker": "D:\\Study\\6. Studying\\ThuatToan\\Doan\\BT02\\BT02\\Bai04.cs",
+              "RelativeDocumentMoniker": "BT02\\Bai04.cs",
+              "ToolTip": "D:\\Study\\6. Studying\\ThuatToan\\Doan\\BT02\\BT02\\Bai04.cs",
+              "RelativeToolTip": "BT02\\Bai04.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAUwHYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:48:44.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai02.cs",
+              "DocumentMoniker": "D:\\Study\\6. Studying\\ThuatToan\\Doan\\BT02\\BT02\\Bai02.cs",
+              "RelativeDocumentMoniker": "BT02\\Bai02.cs",
+              "ToolTip": "D:\\Study\\6. Studying\\ThuatToan\\Doan\\BT02\\BT02\\Bai02.cs",
+              "RelativeToolTip": "BT02\\Bai02.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAUwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:49:00.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai03.cs",
+              "DocumentMoniker": "D:\\Study\\6. Studying\\ThuatToan\\Doan\\BT02\\BT02\\Bai03.cs",
+              "RelativeDocumentMoniker": "BT02\\Bai03.cs",
+              "ToolTip": "D:\\Study\\6. Studying\\ThuatToan\\Doan\\BT02\\BT02\\Bai03.cs",
+              "RelativeToolTip": "BT02\\Bai03.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAEwFIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:48:45.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai01.cs",
+              "DocumentMoniker": "D:\\Study\\6. Studying\\ThuatToan\\Doan\\BT02\\BT02\\Bai01.cs",
+              "RelativeDocumentMoniker": "BT02\\Bai01.cs",
+              "ToolTip": "D:\\Study\\6. Studying\\ThuatToan\\Doan\\BT02\\BT02\\Bai01.cs",
+              "RelativeToolTip": "BT02\\Bai01.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAywC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:48:32.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
